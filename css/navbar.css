@@ -1,3 +1,6 @@
+.navbar {
+    margin-top: 20px; /* Add space between the banner and the navbar */
+}
 nav {
     background-color: #333;
     overflow: hidden;
