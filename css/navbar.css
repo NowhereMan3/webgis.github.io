@@ -10,14 +10,14 @@ nav {
 nav a {
     float: left;
     display: block;
-    color: #fff;
+    color: purple;
     text-align: center;
     padding: 14px 20px;
     text-decoration: none;
 }
 
 nav a:hover {
-    background-color: #ddd;
+    background-color: white;
     color: #333;
 }
 
