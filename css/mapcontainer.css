@@ -1,6 +1,8 @@
 .mapcontainer {
     padding-left: 5%; /* Add padding to the left */
     padding-right: 5%; /* Add padding to the right */
+    border: 2px dashed blue; /* Add a blue dashed border */
+    box-sizing: border-box; /* Include padding and border in the total width and height */
 }
 
 #map {
